@@ -26,7 +26,7 @@
 }
 
 .bg-apart {
-    background-image: linear-gradient(360deg, #272629e7, rgba(93, 91, 100, 0.3)), url(../img/istockphoto-1331681860-170667a.jpg);
+    background-image: linear-gradient(360deg, #272629e7, rgba(93, 91, 100, 0.6)), url(../img/istockphoto-1331681860-170667a.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -40,7 +40,7 @@
 }
 
 .bg-fins {
-    background-image: linear-gradient(360deg, rgb(75, 72, 72), rgba(80, 72, 72, 0.5)), url(../img/image36.png);
+    background-image: linear-gradient(360deg, rgb(59, 58, 58), rgba(80, 72, 72, 0.5)), url(../img/image36.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
